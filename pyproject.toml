@@ -6,6 +6,8 @@ authors = ["ewbdoohyun <ewb.doohyun@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+bs4 = "^0.0.1"
+requests = "^2.22"
 
 [tool.poetry.dev-dependencies]
 
