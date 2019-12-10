@@ -1,14 +1,6 @@
 [[package]]
 category = "main"
 description = "Screen-scraping library"
-name = "beautifulsoup"
-optional = false
-python-versions = "*"
-version = "3.2.2"
-
-[[package]]
-category = "main"
-description = "Screen-scraping library"
 name = "beautifulsoup4"
 optional = false
 python-versions = "*"
@@ -83,11 +75,10 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4"
 version = "1.25.7"
 
 [metadata]
-content-hash = "170c249b1174d1c0c6040a229b1bdc5dad81c9b252a17584d360e8230b24a370"
+content-hash = "c730d0a212d2a2712ba83f7183e1aa9fe970c7973b12fe55d3e5df72e71e6535"
 python-versions = "^3.7"
 
 [metadata.hashes]
-beautifulsoup = ["a04169602bff6e3138b1259dbbf491f5a27f9499dea9a8fbafd48843f9d89970", "d31413d71f6ca027ff6b06c891b62ee8ff48267ccd969f881d810e5d1fe49565"]
 beautifulsoup4 = ["5279c36b4b2ec2cb4298d723791467e3000e5384a43ea0cdf5d45207c7e97169", "6135db2ba678168c07950f9a16c4031822c6f4aec75a65e0a97bc5ca09789931", "dcdef580e18a76d54002088602eba453eec38ebbcafafeaabd8cab12b6155d57"]
 bs4 = ["36ecea1fd7cc5c0c6e4a1ff075df26d50da647b75376626cc186e2212886dd3a"]
 certifi = ["017c25db2a153ce562900032d5bc68e9f191e44e9a0f762f373977de9df1fbb3", "25b64c7da4cd7479594d035c08c2d809eb4aab3a26e5a990ea98cc450c320f1f"]
